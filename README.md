@@ -13,7 +13,7 @@ Currently, I'm exploring **Headless Commerce, API UX, and Developer Experience (
 
 ## 🚀 My Work
 - **Portfolio:** https://amelie-lu-portfolio.framer.website/
-- **UX Challenge & Case Studies:** https://shorturl.at/t7ypk
+- **UX Challenge & Case Study:** https://shorturl.at/t7ypk
 
 ## 📚 Blog Posts
 I enjoy writing about UX learning experiences. Check out my latest blog posts:
