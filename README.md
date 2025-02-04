@@ -15,6 +15,11 @@ Currently, I'm exploring **Headless Commerce, API UX, and Developer Experience (
 - **Portfolio:** https://amelie-lu-portfolio.framer.website/
 - **UX Research & Case Studies:** https://shorturl.at/t7ypk
 
+## 📚 Blog Posts
+I enjoy writing about UX learning experiences. Check out my latest blog posts:
+- [🔗 Observations on China's UX: The Divide Between Web and Mobile](#) ** https://shorturl.at/tzUoX
+- [🔗 UX Exploration Journey: Done is Better than Perfect](#) **https://shorturl.at/Zuy1n
+
 ## 📖 What I'm Learning
 - **JavaScript & Frontend Basics** – To better understand implementation constraints
 - **API Usability & Developer-Centered UX** – Making API interactions seamless
