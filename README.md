@@ -13,7 +13,7 @@ Currently, I'm exploring **Headless Commerce, API UX, and Developer Experience (
 
 ## 🚀 My Work
 - **Portfolio:** https://amelie-lu-portfolio.framer.website/
-- **UX Research & Case Studies:** https://www.notion.so/Empathy-Driven-UX-How-a-Social-App-Redefines-Emotions-to-Inspire-Real-World-Engagement-175c58a663cf809fbf38ccf7015a0726
+- **UX Research & Case Studies:** https://shorturl.at/t7ypk
 
 ## 📖 What I'm Learning
 - **JavaScript & Frontend Basics** – To better understand implementation constraints
