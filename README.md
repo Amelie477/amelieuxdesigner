@@ -7,7 +7,7 @@ Currently, I'm exploring **Seamless B2B User Experience Design**, and I'm always
 
 ## 🛠️ What I Work On
 - **📌 UX Research & Strategy** – Understanding user pain points and improving workflows
-- **🛒 E-Commerce UX** – Experience in optimizing membership and customer engagement in digital commerce
+- **🛒 E-Commerce UX Design** – Experience in optimizing membership and customer engagement in digital commerce
 - **🧩 API & Developer Experience (DX)** – Exploring how to make API-driven platforms more intuitive
 - **🎨 UI & Interaction Design** – Creating clear, efficient, and scalable design solutions
 
@@ -22,7 +22,7 @@ I enjoy writing about UX learning experiences. Check out my latest blog posts:
 - [🔗 Year Reflection: To My Driven and Energetic 2024](https://shorturl.at/amlA9)
 
 ## 📖 What I'm Learning
-- **JavaScript & Frontend Basics** – To better understand implementation constraints
+- **JavaScript & Frontend Basics(HTML/CSS)** – To better understand implementation constraints
 - **API Usability & Developer-Centered UX** – Making API interactions seamless
 - **B2B SaaS Workflows & Data-Driven Design** – Creating scalable enterprise solutions
 
