@@ -19,7 +19,7 @@ Currently, I'm exploring **Headless Commerce, API UX, and Developer Experience (
 I enjoy writing about UX learning experiences. Check out my latest blog posts:
 - [🔗 Observations on China's UX: The Divide Between Web and Mobile](https://shorturl.at/tzUoX) 
 - [🔗 UX Exploration Journey: Done is Better than Perfect](https://shorturl.at/Zuy1n)
-- [🔗 UX Exploration Journey: Done is Better than Perfect](https://shorturl.at/amlA9)
+- [🔗 Year Reflection: To My Driven and Energetic 2024](https://shorturl.at/amlA9)
 
 ## 📖 What I'm Learning
 - **JavaScript & Frontend Basics** – To better understand implementation constraints
