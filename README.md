@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Siqi 
+# Hi there! 👋 I'm Amelie
 
 ## 🌟 About Me
 I'm a UX Designer with a strong passion for **B2B SaaS, e-commerce, and API-driven products**. My experience in **e-commerce UX and membership conversion** has given me a deep understanding of how businesses optimize user experiences for efficiency and scalability.
