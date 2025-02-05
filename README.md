@@ -6,10 +6,9 @@ I'm a UX Designer with a strong passion for **B2B SaaS, e-commerce products**. M
 Currently, I'm exploring **Seamless B2B User Experience Design**, and I'm always excited to bridge the gap between business needs, technology, and user-friendly design.
 
 ## 🛠️ What I Work On
-- **📌 UX Research & Strategy** – Understanding user pain points and improving workflows
-- **🛒 E-Commerce UX Design** – Experience in optimizing membership and customer engagement in digital commerce
-- **🧩 API & Developer Experience (DX)** – Exploring how to make API-driven platforms more intuitive
+- **📌 UX Research & Design** – Understanding user pain points and improving workflows
 - **🎨 UI & Interaction Design** – Creating clear, efficient, and scalable design solutions
+- **🛒 User Grwoth & Conversion Rate Optimisation** – Experience in optimizing membership and customer engagement in digital commerce
 
 ## 🚀 My Work
 - **Portfolio:** https://amelie-lu-portfolio.framer.website/
