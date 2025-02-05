@@ -14,6 +14,8 @@ Currently, I'm exploring **Seamless B2B User Experience Design**, and I'm always
 ## 🚀 My Work
 - **Portfolio:** https://amelie-lu-portfolio.framer.website/
 - **UX Challenge & Case Study:** https://shorturl.at/t7ypk
+- **Experience with Framer:** https://chiachias.framer.website/
+- **Experience with Webflow:** https://orbittravel.webflow.io/
 
 ## 📚 Blog Posts
 I enjoy writing about UX learning experiences. Check out my latest blog posts:
