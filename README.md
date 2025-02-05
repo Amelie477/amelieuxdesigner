@@ -23,9 +23,9 @@ I enjoy writing about UX learning experiences. Check out my latest blog posts:
 - [🔗 Year Reflection: To My Driven and Energetic 2024](https://shorturl.at/amlA9)
 
 ## 📖 What I'm Learning
-- **JavaScript & Frontend Basics(HTML/CSS)** – To better understand implementation constraints
-- **API Usability & Developer-Centered UX** – Making API interactions seamless
+- **Frontend Basics(HTML/CSS) & Javascript** – To better understand implementation constraints
 - **B2B SaaS Workflows & Data-Driven Design** – Creating scalable enterprise solutions
+- **Lean UX Design** - Removing unnecessary steps to create a seamless and efficient user experience.
 
 ## 🌍 Connect with Me
 - **LinkedIn:** https://www.linkedin.com/in/misssiqilu/
