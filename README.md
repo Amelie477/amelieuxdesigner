@@ -15,6 +15,7 @@ Currently, I'm exploring **Seamless B2B User Experience Design**, and I'm always
 - **UX Challenge & Case Study:** https://shorturl.at/t7ypk
 - **Experience with Framer:** https://chiachias.framer.website/
 - **Experience with Webflow:** https://orbittravel.webflow.io/
+- **21-Day UI Challenge:** https://shorturl.at/8FxVV
 
 ## 📚 Blog Posts
 I enjoy writing about UX learning experiences. Check out my latest blog posts:
