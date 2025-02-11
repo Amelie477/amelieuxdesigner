@@ -12,7 +12,7 @@ I’m passionate about designing intuitive and impactful user experiences, blend
 
 ## 🚀 My Work
 - **Portfolio:** https://amelie-lu-portfolio.framer.website/
-- **UX Challenge & Case Study (Rausgegangen):** https://shorturl.at/t7ypk
+- **UX Challenge & Case Study (Rausgegangen_Full Version):** https://shorturl.at/t7ypk
 - **Experience with Framer:** https://chiachias.framer.website/
 - **Experience with Webflow:** https://orbittravel.webflow.io/
 - **21-Day UI Challenge:** https://shorturl.at/8FxVV
