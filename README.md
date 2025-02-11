@@ -1,9 +1,9 @@
 # Hi there! 👋 I'm Amelie
 
 ## 🌟 About Me
-I'm a UX Designer with a strong passion for **B2B, SaaS, and e-commerce products**. My experience in **e-commerce UX and membership conversion** has given me a deep understanding of how businesses optimize user experiences for efficiency and scalability.
+’m a UX Designer with a strong foundation in **technology and marketing strategy**, specializing in **B2B, SaaS, and e-commerce products. My experience in **e-commerce UX, membership conversion, and business optimization** has equipped me with the skills to create scalable solutions that meet both user and business needs.
 
-Currently, I'm exploring **Seamless B2B User Experience Design**, and I'm always excited to bridge the gap between business needs, technology, and user-friendly design.
+I’m passionate about designing intuitive and impactful user experiences, blending my technical knowledge and business insight to deliver solutions that drive **user satisfaction and business growth**.
 
 ## 🛠️ What I Work On
 - **📌 UX Research & Design** – Understanding user pain points and improving workflows
