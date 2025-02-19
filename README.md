@@ -30,7 +30,5 @@ I enjoy writing about UX learning experiences. Check out my latest blog posts:
 ## 🌍 Connect with Me
 - **LinkedIn:** https://www.linkedin.com/in/misssiqilu/
 - **Email:** amelie.lu.email@gmail.com
-- **Website:** https://amelie-lu-portfolio.framer.website/
-
 ---
-✉️ I'm always open to connecting and discussing UX, B2B design, and e-commerce strategies. Let's chat!
+✉️ I'm always open to connecting and discussing CRO, UX, and optimisation strategies. Let's chat!
