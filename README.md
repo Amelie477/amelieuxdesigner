@@ -24,8 +24,7 @@ I enjoy writing about UX learning experiences. Check out my latest blog posts:
 
 ## 📖 What I'm Learning
 - **Frontend Basics(HTML/CSS) & Javascript** – To better understand implementation constraints
-- **B2B SaaS Workflows & Data-Driven Design** – Creating scalable enterprise solutions
-- **Lean UX Design** - Removing unnecessary steps to create a seamless and efficient user experience.
+- **A/B Testing & Statistical Analysis** — To design data-driven experiments and make informed optimization decisions
 
 ## 🌍 Connect with Me
 - **LinkedIn:** https://www.linkedin.com/in/misssiqilu/
