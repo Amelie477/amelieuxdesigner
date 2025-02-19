@@ -1,9 +1,9 @@
 # Hi there! 👋 I'm Amelie
 
 ## 🌟 About Me
-I’m a UX Designer with a strong foundation in **technology and marketing strategy**, specializing in B2B, SaaS, and e-commerce products. My experience in **e-commerce UX, user growth, conversion rate optimization** has equipped me with the skills to create scalable solutions that meet both user and business needs.
+I specialize in **user experience (UX) strategy** and **conversion rate optimization (CRO)**, focusing on **B2B, SaaS, and e-commerce** products. By combining **A/B testing, user behavior analysis, and funnel optimization**, I identify friction points and implement data-driven improvements that **enhance engagement and maximize conversions**.
 
-I’m passionate about designing intuitive and impactful user experiences, blending my technical knowledge and business insight to deliver solutions that drive **user satisfaction and business growth**.
+I am passionate about optimizing **digital experiences through a user-centric and data-driven approach**. By leveraging **usability testing, behavioral insights, and analytics tools like GA4 and Hotjar**, I translate data into actionable strategies that improve **user flows, reduce drop-off rates, and drive sustainable business growth**.
 
 ## 🛠️ What I Work On
 - **📌 UX Research & Design** – Understanding user pain points and improving workflows
