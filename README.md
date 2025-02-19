@@ -12,7 +12,7 @@ I am passionate about optimizing **digital experiences through a user-centric an
 
 ## 🚀 My Work
 - **Portfolio:** https://amelie-lu-portfolio.framer.website/
-- **UX Challenge & Case Study (Rausgegangen_Full Version):** https://shorturl.at/t7ypk
+- **UX Case Study:** https://shorturl.at/t7ypk
 - **Experience with Framer:** https://chiachias.framer.website/
 - **Experience with Webflow:** https://orbittravel.webflow.io/
 
