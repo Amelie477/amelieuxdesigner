@@ -6,9 +6,9 @@ I specialize in **user experience (UX) strategy** and **conversion rate optimiza
 I am passionate about optimizing **digital experiences through a user-centric and data-driven approach**. By leveraging usability testing, behavioral insights, and analytics tools like GA4 and Hotjar, I translate data into actionable strategies that improve user flows, reduce drop-off rates, and drive sustainable business growth.
 
 ## 🛠️ What I Work On
+- **🛒 User Grwoth & Conversion Rate Optimisation** – Experience in optimizing membership and customer engagement in digital commerce
 - **📌 UX Research & Design** – Understanding user pain points and improving workflows
 - **🎨 UI & Interaction Design** – Creating clear, efficient, and scalable design solutions
-- **🛒 User Grwoth & Conversion Rate Optimisation** – Experience in optimizing membership and customer engagement in digital commerce
 
 ## 🚀 My Work
 - **Portfolio:** https://amelie-lu-portfolio.framer.website/
