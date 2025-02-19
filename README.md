@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Amelie
 
 ## 🌟 About Me
-I specialize in **user experience (UX) strategy** and **conversion rate optimization (CRO)**, focusing on **B2B, SaaS, and e-commerce** products. By combining **A/B testing, user behavior analysis, and funnel optimization**, I identify friction points and implement data-driven improvements that enhance engagement and maximize conversions.
+I specialize in **user experience (UX) strategy** and **conversion rate optimization (CRO)**, focusing on B2B, SaaS, and e-commerce products. By combining **A/B testing, user behavior analysis, and funnel optimization**, I identify friction points and implement data-driven improvements that enhance engagement and maximize conversions.
 
 I am passionate about optimizing **digital experiences through a user-centric and data-driven approach**. By leveraging usability testing, behavioral insights, and analytics tools like GA4 and Hotjar, I translate data into actionable strategies that improve user flows, reduce drop-off rates, and drive sustainable business growth.
 
