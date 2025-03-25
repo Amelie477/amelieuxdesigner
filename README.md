@@ -11,7 +11,7 @@ I am passionate about optimizing **digital experiences through a user-centric an
 - **🎨 UI & Interaction Design** – Creating clear, efficient, and scalable design solutions
 
 ## 🚀 My Work
-- **Portfolio:** https://amelie-lu-portfolio.framer.website/
+- **Portfolio:** https://amelie-lu.framer.website/
 - **UX Case Study:** https://shorturl.at/t7ypk
 - **Experience with Framer:** https://chiachias.framer.website/
 - **Experience with Webflow:** https://orbittravel.webflow.io/
